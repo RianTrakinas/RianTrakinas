@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RianTrakinas
 - 👀 I’m interested in progamming for games
-- 🌱 I’m currently learning python, java, javascript, c++ and c# 
+- 🌱 I’m currently learning python, java, javascript, c++, c# and react native
 - 💞️ I’m looking to collaborate to new learning and cooperate with some works
 - 📫 How to reach me riantrakinas@gmail.com
 
